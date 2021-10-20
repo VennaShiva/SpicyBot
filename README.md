@@ -1,5 +1,5 @@
 # Introduction
-**A Telegram Bot to force users to join a specific channel before sending messages in a group.**
+**A Telegram Bot to force users to join a specific channel:- @SpicyMovies before sending messages in a group.**
 - Find it on Telegram as [SpicyBot](https://t.me/SpicyPromoter_bot)
 
 ## Todo
