@@ -3,7 +3,7 @@
 - Find it on Telegram as [SpicyBot](https://t.me/SpicyPromoter_bot)
 
 ## Todo
-- [ ] Add multiple channels support
+- [X] Add multiple channels support
 - [X] Configure different groups with different channels
 - [X] Clean messages after completion
 - [ ] LOGGER support.
